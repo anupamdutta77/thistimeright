@@ -1,0 +1,9 @@
+C:\Users\anupamd\source\repos\DevOpsSample\DevOpsSample\bin\Debug\DevOpsSample.exe.config
+C:\Users\anupamd\source\repos\DevOpsSample\DevOpsSample\bin\Debug\DevOpsSample.exe
+C:\Users\anupamd\source\repos\DevOpsSample\DevOpsSample\bin\Debug\DevOpsSample.pdb
+C:\Users\anupamd\source\repos\DevOpsSample\DevOpsSample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\anupamd\source\repos\DevOpsSample\DevOpsSample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\anupamd\source\repos\DevOpsSample\DevOpsSample\obj\Debug\DevOpsSample.csprojAssemblyReference.cache
+C:\Users\anupamd\source\repos\DevOpsSample\DevOpsSample\obj\Debug\DevOpsSample.csproj.CopyComplete
+C:\Users\anupamd\source\repos\DevOpsSample\DevOpsSample\obj\Debug\DevOpsSample.exe
+C:\Users\anupamd\source\repos\DevOpsSample\DevOpsSample\obj\Debug\DevOpsSample.pdb
